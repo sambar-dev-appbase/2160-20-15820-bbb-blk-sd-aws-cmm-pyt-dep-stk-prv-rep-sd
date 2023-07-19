@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+  "program1NameKEY": "awscli",
+  "protocol1TypeKEY": "TCP",
+  "port1RangeKEY": "6621",
+  "program2NameKEY": "name",
+  "protocol2TypeKEY": "type",
+  "port2RangeKEY": "port"
+}

@@ -1,0 +1,19 @@
+{
+  "resourceMetadataKEY": "yes",
+  "asset1FileNameKEY": "config.ini",
+  "asset1FileTypeKEY": "configuration file",
+  "asset1FilePathKEY": "/lib/pkg/asset/config.ini",
+  "asset1MetadataKEY": {
+    "asset1AuthorKEY": "crystal-city",
+    "asset1VersionNumberKEY": "2.1.1",
+    "asset1DescriptionKEY": "Asset settings for CryptoBing BOT"
+  },
+  "asset2FileNameKEY": "data.ini",
+  "asset2FileTypeKEY": "data file",
+  "asset2FilePathKEY": "/lib/pkg/asset/data.ini",
+  "asset2MetadataKEY": {
+    "asset2AuthorKEY": "crystal-city",
+    "asset2VersionNumberKEY": "2.5.1",
+    "asset2DescriptionKEY": "Asset settings for CryptoBing BOT"
+  }
+}
